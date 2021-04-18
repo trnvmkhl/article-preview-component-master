@@ -1,3 +1,8 @@
+My solution for the 1440px and 375px screens
+[Check here](https://trnvmkhl.github.io/article-preview-component-master/)
+
+
+
 # Frontend Mentor - Article preview component
 
 ![Design preview for the Article preview component coding challenge](./design/desktop-preview.jpg)
